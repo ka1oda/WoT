@@ -1,10 +1,10 @@
 # WoT
 
-##Description
+## Description
 This project is a network-based multiplayer game where two players connect and interact with each other using their IP addresses. The game uses a simple server-client model with two players communicating over TCP/IP.
 
 
-##Prerequisites
+## Prerequisites
 Before running the game, ensure you have the required dependencies installed on your system:
 
 bash
