@@ -8,10 +8,10 @@ This project is a network-based multiplayer game where two players connect and i
 Before running the game, ensure you have the required dependencies installed on your system:
 
 
-1. ```**sudo apt install libncurses5-dev libncursesw5-dev**```
-2. ```**git clone https://github.com/ka1oda/WoT.git**```
-3. ```**cd WoT**```
-4. ```**mak**e```
+1. ```sudo apt install libncurses5-dev libncursesw5-dev```
+2. ```git clone https://github.com/ka1oda/WoT.git```
+3. ```cd WoT```
+4. ```make```
 5. ```./kaloda <Your_IP> <Opponent_IP> ```
 
 
