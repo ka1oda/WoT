@@ -17,6 +17,4 @@ Before running the game, ensure you have the required dependencies installed on 
 
 
 
-
-[]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://media1.tenor.com/m/8zhouDv3TJ0AAAAd/kptkosmit91-skill.gif)
+![logo](https://media1.tenor.com/m/8zhouDv3TJ0AAAAd/kptkosmit91-skill.gif)
