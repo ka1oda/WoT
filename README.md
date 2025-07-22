@@ -17,4 +17,5 @@ Before running the game, ensure you have the required dependencies installed on 
 
 
 
-![logo](https://media1.tenor.com/m/8zhouDv3TJ0AAAAd/kptkosmit91-skill.gif)
+![pic](https://github.com/user-attachments/assets/d644e577-3e96-4a1a-801f-65d81635a8a3)
+
