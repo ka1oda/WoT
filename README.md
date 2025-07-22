@@ -7,39 +7,15 @@ This project is a network-based multiplayer game where two players connect and i
 ## Prerequisites
 Before running the game, ensure you have the required dependencies installed on your system:
 
-bash
-```sudo apt install libncurses5-dev libncursesw5-dev```
+
+1. ```**sudo apt install libncurses5-dev libncursesw5-dev**```
+2. ```**git clone https://github.com/ka1oda/WoT.git**```
+3. ```**cd WoT**```
+4. ```**mak**e```
+5. ```./kaloda <Your_IP> <Opponent_IP> ```
 
 
-How to Run
-Clone the repository:
 
-bash
-Копировать
-Редактировать
-git clone https://github.com/ka1oda/WoT.git
-cd WoT
-Compile the code:
-
-bash
-Копировать
-Редактировать
-make
-Run the game:
-
-First player (on one terminal or screen):
-
-bash
-Копировать
-Редактировать
-./kaloda <Your_IP> <Opponent_IP> --port 8891
-Second player (on another terminal or screen):
-
-bash
-Копировать
-Редактировать
-./kaloda <Opponent_IP> <Your_IP> --port 8892
-Replace <Your_IP> and <Opponent_IP> with the respective IP addresses. Note: You need to run the game on different IP addresses. It is not possible to connect two instances of the game to the same IP address.
 
 
 markdown
