@@ -1,18 +1,15 @@
 # WoT
 
-Description
+##Description
 This project is a network-based multiplayer game where two players connect and interact with each other using their IP addresses. The game uses a simple server-client model with two players communicating over TCP/IP.
 
-The program (kaloda) listens on a specified port for incoming connections from the second player. Each player runs the game on their local machine, and they must connect to each other using unique IP addresses and different ports.
 
-Prerequisites
+##Prerequisites
 Before running the game, ensure you have the required dependencies installed on your system:
 
 bash
-Копировать
-Редактировать
-sudo apt install libncurses5-dev libncursesw5-dev
-These libraries are required for the graphical user interface (using ncurses).
+```sudo apt install libncurses5-dev libncursesw5-dev```
+
 
 How to Run
 Clone the repository:
