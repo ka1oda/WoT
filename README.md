@@ -1,4 +1,4 @@
-# WoT
+# WoR
 
 ## Description
 This project is a network-based multiplayer game where two players connect and interact with each other using their IP addresses. The game uses a simple server-client model with two players communicating over TCP/IP.
